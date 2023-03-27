@@ -1,5 +1,6 @@
 ## 9012. 괄호
-<img src='https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cba6f290-61d4-44ec-be3a-3c690cd88952/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-26_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.50.19.png'/>
+<img src='https://www.notion.so/9a0cbe928d5f4c1db8f52d12835868ed?pvs=4#7f92a2f69fec42bf9e0b8d72e5df8d3e'/>
+
 ```python
 def checkParenthesis(ps):
     check = []  # 괄호의 짝이 맞는지 확인할 배열
