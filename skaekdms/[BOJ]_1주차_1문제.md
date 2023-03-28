@@ -1,5 +1,7 @@
 ## 9012. 괄호
-<img src='https://www.notion.so/9a0cbe928d5f4c1db8f52d12835868ed?pvs=4#7f92a2f69fec42bf9e0b8d72e5df8d3e'/>
+### 문제 설명
+괄호의 짝이 맞는 거 VPS라고 한다.
+VPS가 맞는지 여부를 검사해서 맞으면 YES, 맞지 않으면 NO를 출력하라
 
 ```python
 def checkParenthesis(ps):
