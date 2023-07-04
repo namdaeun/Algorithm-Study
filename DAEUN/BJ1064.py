@@ -15,3 +15,4 @@ d3 = ((x3 - x1)**2 + (y3 - y1)**2)**0.5
 distance = [2*(d1+d2), 2*(d2+d3), 2*(d1+d3)] # 가능한 둘레의 길이  
 result = max(distance) - min(distance) 
 print(result)
+ 
